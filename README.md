@@ -3,7 +3,7 @@
 
 # 개인발표
 ## 4.4 모각코 시간 개인발표
-  - <a href=""> </a>
+  - <a href="https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song/blob/master/%EA%B0%9C%EC%9D%B8%EB%B0%9C%ED%91%9C/%EB%9D%BC%EB%B2%A8%20%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%98%20%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95%EB%93%A4.ipynb"> 범주형 데이터를 인코딩하는 다양한 방법들</a>
 
 # Competition
 ## hospital
