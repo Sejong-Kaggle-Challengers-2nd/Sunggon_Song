@@ -14,5 +14,9 @@
   - <a href="https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song/blob/master/credit/my_baseline%2Blog.ipynb">내가 작성한 baseline</a>
 
 ## house_auction
-  - <a href="https://dacon.io/competitions/official/17801/overview/"> 대출 상점 총 매출 예측 경진대회</a>
+  - <a href="https://dacon.io/competitions/official/17801/overview/"> 아파트 경매가격 예측 경진대회</a>
   - <a href="https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song/blob/master/house_auction/baseline.ipynb">내가 작성한 baseline</a>
+
+## credit visualization
+  - <a href="https://dacon.io/competitions/official/42473/overview/"> 신용카드 거래 데이터 시각화</a>
+  - <a href="https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song/blob/master/house_auction/baseline.ipynb">3등 솔루션</a>
