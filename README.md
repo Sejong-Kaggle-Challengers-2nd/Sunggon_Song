@@ -1,7 +1,11 @@
 # Sunggon_Song
 2기_챌린지반의 송성곤입니다.
 
-# Index
+# 개인발표
+## 4.4 모각코 시간 개인발표
+  - <a href=""> </a>
+
+# Competition
 ## hospital
   - <a href="https://dacon.io/competitions/official/9565/overview/"> 병원 개/폐업 분류 문제</a>
   - <a href="https://g0n1.tistory.com/116">1등 솔루션 분석</a>
